@@ -2,6 +2,7 @@ package Arrays;
 
 public class RearrangeMaxMin {
 
+    // using new array
     public static int[] rearrangeMaxMin(int[] arr) {
         int i=0; int j = arr.length-1;
         int[] res = new int[arr.length];
