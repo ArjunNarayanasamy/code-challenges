@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.palindrome;
 
 /**
  * Given 2 strings, can second string can be made palindrome like first, which already is
